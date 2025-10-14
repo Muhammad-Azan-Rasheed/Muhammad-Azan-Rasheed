@@ -48,7 +48,6 @@ I'm willing to be a good **Data Scientist** in future by profession. I also want
  | HTML/CSS |                             I made this project as a beginner.                                     | Completed |
  | Statistics | I Collected Data On "Are Students Truly Following Their Passion" And Concluded Important Results | Completed |
  
-![Profile Picture]("C:\Users\User\Pictures\Me.png") 
  <!--
 **Muhammad-Azan-Rasheed/Muhammad-Azan-Rasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
